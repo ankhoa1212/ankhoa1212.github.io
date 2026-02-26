@@ -62,8 +62,8 @@ cv:
       - company: California State University Fullerton Auxiliary Services Corporation
         position: Research Assistant
         location: Fullerton, California, US
-        start_date: 1933
-        end_date: 1933
+        start_date: 2025
+        # end_date: 1933
         # highlights:
         #   - Description 1.
         #   - Description 2.
