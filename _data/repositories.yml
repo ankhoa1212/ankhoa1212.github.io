@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ankhoa1212
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ankhoa1212/PacificChatbot
+  - ankhoa1212/BattleBox
+  - ankhoa1212/computer-vision
+  - ankhoa1212/movie-recommender
+  - ankhoa1212/comp55-final-project
+  - ankhoa1212/molecular-dynamics-simulation
