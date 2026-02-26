@@ -416,7 +416,7 @@ ninja.data = [{
           title: 'I started my Master of Science in Applied Computer Science at Cal State...',
           description: "",
           section: "News",},{id: "news-i-joined-valt-health",
-          title: 'I joined VALT Health 💹',
+          title: 'I joined VALT Health',
           description: "",
           section: "News",},{id: "news-i-was-featured-in-csuf-news-here",
           title: 'I was featured in CSUF News: here',
