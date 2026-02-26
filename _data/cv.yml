@@ -31,7 +31,7 @@ cv:
         start_date: 2024
         end_date: 2026
         score: ""
-        courses: "Theory of Relativity"
+        # courses: "Theory of Relativity"
         # highlights:
         #   - Description 1.
         #   - Description 2.
@@ -43,7 +43,7 @@ cv:
         studyType: Bachelor of Science
         start_date: 2019
         end_date: 2023
-        score: "3.57"
+        score: ""
         # highlights:
         #   - Description 1.
         #   - Description 2.
@@ -132,7 +132,7 @@ cv:
         publisher: The Science and Information Organization
         releaseDate: 2024-06-30
         url: https://thesai.org/Publications/ViewPaper?Volume=15&Issue=6&Code=ijacsa&SerialNo=6
-        summary: To streamline university information retrieval, we developed an AI-based FAQ chatbot, finding that a custom neural network offered superior efficiency and specialized accuracy compared to the more resource-intensive BERT model.
+        summary: To streamline university information retrieval, I developed an AI-based FAQ chatbot, finding that a custom neural network offered superior efficiency and specialized accuracy compared to the more resource-intensive BERT model.
 
   #     - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
   #       authors:
