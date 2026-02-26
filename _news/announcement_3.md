@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my Master of Science in Applied Computer Science at Cal State Fullerton
+I started my Master of Science in Applied Computer Science at [Cal State Fullerton](https://www.fullerton.edu/)

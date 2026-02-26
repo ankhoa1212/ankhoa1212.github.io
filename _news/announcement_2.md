@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined VALT Health 💹
+I joined VALT Health
