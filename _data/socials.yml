@@ -9,6 +9,6 @@
 github_username: ankhoa1212
 linkedin_username: austin-nguyen-0xC
 custom_social:
-  - title: Click Me!
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-    logo: /assets/img/profile.png
+  title: Click Me!
+  url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  logo: /assets/img/profile.png
