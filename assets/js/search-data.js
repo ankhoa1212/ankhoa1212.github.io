@@ -407,11 +407,106 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-the-andromeda-strain",
+          title: 'The Andromeda Strain',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/andromeda_strain/";
+            },},{id: "books-binti",
+          title: 'Binti',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/binti/";
+            },},{id: "books-brave-new-world",
+          title: 'Brave New World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/brave_new_world/";
+            },},{id: "books-crime-and-punishment",
+          title: 'Crime and Punishment',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/crime_and_punishment/";
+            },},{id: "books-ender-s-game-1-4",
+          title: 'Ender’s Game (1-4)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/enders_game/";
+            },},{id: "books-guardians-of-ga-hoole-1-15",
+          title: 'Guardians of Ga’Hoole (1-15)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/guardians_of_gahoole/";
+            },},{id: "books-harry-potter-1-7",
+          title: 'Harry Potter (1-7)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/harry_potter/";
+            },},{id: "books-the-heroes-of-olympus-1-5",
+          title: 'The Heroes of Olympus (1-5)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/heroes_of_olympus/";
+            },},{id: "books-hyperion",
+          title: 'Hyperion',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/hyperion/";
+            },},{id: "books-kane-chronicles-1-3",
+          title: 'Kane Chronicles (1-3)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/kane_chronicles/";
+            },},{id: "books-lord-of-the-flies",
+          title: 'Lord of the Flies',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/lord_of_the_flies/";
+            },},{id: "books-lord-of-the-rings-1-3",
+          title: 'Lord of the Rings (1-3)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/lord_of_the_rings/";
+            },},{id: "books-percy-jackson-1-5",
+          title: 'Percy Jackson (1-5)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/percy_jackson/";
+            },},{id: "books-prey",
+          title: 'Prey',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/prey/";
+            },},{id: "books-ranger-s-apprentice-1-12",
+          title: 'Ranger’s Apprentice (1-12)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/rangers_apprentice/";
+            },},{id: "books-snow-crash",
+          title: 'Snow Crash',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/snow_crash/";
+            },},{id: "books-the-39-clues-1-11-1-6",
+          title: 'The 39 Clues (1-11, 1-6)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_39_clues/";
+            },},{id: "books-the-dark-forest",
+          title: 'The Dark Forest',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_dark_forest/";
+            },},{id: "books-the-hobbit",
+          title: 'The Hobbit',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_hobbit/";
+            },},{id: "books-the-three-body-problem",
+          title: 'The Three Body Problem',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/three_body_problem/";
             },},{id: "news-i-started-my-master-of-science-in-applied-computer-science-at-cal-state-fullerton",
           title: 'I started my Master of Science in Applied Computer Science at Cal State...',
           description: "",
