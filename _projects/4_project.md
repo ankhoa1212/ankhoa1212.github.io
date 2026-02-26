@@ -4,7 +4,7 @@ title: pokemon-red-reinforcement-learning
 description: Playing Pokemon Red with Reinforcement Learning.
 img: /assets/img/pokemon-red-rl.jpg
 importance: 4
-category: [ai]
+category: [personal, ai]
 related_publications: false
 ---
 

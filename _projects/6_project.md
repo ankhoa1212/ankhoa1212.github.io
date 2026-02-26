@@ -4,7 +4,7 @@ title: resume-generator
 description: A resume generator (inspired by Jake's Resume format).
 img: /assets/img/resume-generator.jpg
 importance: 6
-category: [tools]
+category: [personal, tools]
 related_publications: false
 ---
 

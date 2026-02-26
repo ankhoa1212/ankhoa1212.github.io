@@ -4,7 +4,7 @@ title: movie-recommender
 description: A movie recommender built in Python using IMDb data and the Streamlit platform.
 img: /assets/img/movie-recommender.jpg
 importance: 9
-category: [data]
+category: [personal, data]
 related_publications: false
 ---
 

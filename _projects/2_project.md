@@ -4,7 +4,7 @@ title: interactive-dashboard
 description: An interactive dashboard with a SQLite database, built using Streamlit.
 img: /assets/img/interactive-dashboard.jpg
 importance: 2
-category: [data]
+category: [personal, data]
 related_publications: false
 ---
 

@@ -4,7 +4,7 @@ title: computer-vision
 description: Computer vision techniques on live video feed.
 img: /assets/img/computer-vision.jpg
 importance: 5
-category: [vision]
+category: [personal, vision]
 related_publications: false
 ---
 
