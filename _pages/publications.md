@@ -15,6 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography limit=1 %}
+{% bibliography --query @*[bibtex_show=true]* %}
 
 </div>
