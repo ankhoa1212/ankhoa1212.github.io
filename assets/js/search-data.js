@@ -421,11 +421,26 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-featured-in-csuf-news-here",
           title: 'I was featured in CSUF News: here',
           description: "",
-          section: "News",},{id: "projects-interactive-dashboard",
+          section: "News",},{id: "projects-battlebox",
+          title: 'BattleBox',
+          description: "A real-time strategy game in Unity, using ML Agents for autonomous agents. Senior CS project.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-pacificchatbot",
+          title: 'PacificChatbot',
+          description: "A university information chatbot built with NLP techniques. Published in a research paper.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-interactive-dashboard",
           title: 'interactive-dashboard',
           description: "An interactive dashboard with a SQLite database, built using Streamlit.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-molecular-dynamics-simulation",
+          title: 'molecular-dynamics-simulation',
+          description: "Simulating molecular dynamics using LAMMPS and Python.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-pokemon-red-reinforcement-learning",
           title: 'pokemon-red-reinforcement-learning',
           description: "Playing Pokemon Red with Reinforcement Learning.",
@@ -441,6 +456,16 @@ ninja.data = [{
           description: "A resume generator (inspired by Jake&#39;s Resume format).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-terraform-aws",
+          title: 'terraform-aws',
+          description: "Projects using Terraform to build AWS infrastructure.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-cpsc-483-final-project",
+          title: 'CPSC-483-Final-Project',
+          description: "Machine learning model for classifying medical images (final project for CPSC 483).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{id: "projects-movie-recommender",
           title: 'movie-recommender',
           description: "A movie recommender built in Python using IMDb data and the Streamlit platform.",
