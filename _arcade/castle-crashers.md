@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Castle Crashers
-description: PlayStation 3
+category: [playstation-3]
 importance: 54
 ---

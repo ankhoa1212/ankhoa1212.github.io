@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Pokemon FireRed
-description: Game Boy Advance
+category: [game-boy-advance]
 importance: 21
 ---

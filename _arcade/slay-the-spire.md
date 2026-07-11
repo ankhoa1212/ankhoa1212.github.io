@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Slay the Spire
-description: PC
+category: [pc]
 importance: 49
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Hyper Light Drifter
-description: PC
+category: [pc]
 importance: 46
 ---

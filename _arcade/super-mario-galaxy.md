@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Super Mario Galaxy
-description: Wii
+category: [wii]
 importance: 39
 ---

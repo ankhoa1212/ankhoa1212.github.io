@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Ratchet & Clank: Full Frontal Assault"
-description: PlayStation 3
+category: [playstation-3]
 importance: 30
 ---

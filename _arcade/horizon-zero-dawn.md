@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Horizon Zero Dawn
-description: PlayStation 4
+category: [playstation-4]
 importance: 45
 ---

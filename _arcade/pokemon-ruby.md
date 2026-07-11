@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Pokemon Ruby
-description: Game Boy Advance
+category: [game-boy-advance]
 importance: 20
 ---

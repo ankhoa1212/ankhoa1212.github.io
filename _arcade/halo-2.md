@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Halo 2
-description: Xbox 360
+category: [xbox-360]
 importance: 24
 ---

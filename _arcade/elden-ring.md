@@ -2,6 +2,7 @@
 layout: page
 title: Elden Ring
 description: 100% trophy completion (PS4).
+category: [playstation-4]
 importance: 12
 ---
 

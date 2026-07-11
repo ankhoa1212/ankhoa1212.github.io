@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Sly Cooper and the Thievius Raccoonus
-description: PlayStation 3
+category: [playstation-3]
 importance: 36
 ---

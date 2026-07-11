@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Lovers in a Dangerous Spacetime
-description: PlayStation 4
+category: [playstation-4]
 importance: 44
 ---

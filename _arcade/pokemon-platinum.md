@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Pokemon Platinum
-description: Nintendo DS
+category: [nintendo-ds]
 importance: 19
 ---

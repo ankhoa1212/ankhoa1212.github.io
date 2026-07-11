@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Minecraft
-description: PC
+category: [pc]
 importance: 40
 ---

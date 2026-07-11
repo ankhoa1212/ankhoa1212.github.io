@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Pokemon X
-description: Nintendo 3DS
+category: [nintendo-3ds]
 importance: 41
 ---

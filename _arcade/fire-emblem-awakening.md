@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Fire Emblem Awakening
-description: Nintendo 3DS
+category: [nintendo-3ds]
 importance: 48
 ---

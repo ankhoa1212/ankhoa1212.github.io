@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Pokemon Pearl
-description: Nintendo DS
+category: [nintendo-ds]
 importance: 18
 ---

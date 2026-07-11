@@ -1,6 +1,6 @@
 ---
 layout: page
 title: A Way Out
-description: PC
+category: [pc]
 importance: 56
 ---

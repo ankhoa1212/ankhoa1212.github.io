@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Ratchet & Clank
-description: PlayStation 4
+category: [playstation-4]
 importance: 43
 ---

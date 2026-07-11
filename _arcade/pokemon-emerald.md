@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Pokemon Emerald
-description: Game Boy Advance
+category: [game-boy-advance]
 importance: 22
 ---

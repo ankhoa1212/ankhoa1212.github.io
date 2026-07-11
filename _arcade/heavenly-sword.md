@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Heavenly Sword
-description: PlayStation 3
+category: [playstation-3]
 importance: 53
 ---

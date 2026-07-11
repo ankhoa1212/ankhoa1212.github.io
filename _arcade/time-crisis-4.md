@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Time Crisis 4
-description: Arcade
+category: [arcade-cabinet]
 importance: 55
 ---
