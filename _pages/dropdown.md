@@ -7,6 +7,8 @@ dropdown: true
 children:
   - title: bookshelf
     permalink: /books/
+  - title: arcade
+    permalink: /arcade/
   - title: games
     permalink: /games/
   - title: divider
