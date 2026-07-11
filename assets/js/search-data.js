@@ -37,6 +37,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
+            },{id: "dropdown-games",
+              title: "games",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/games/";
+              },
             },{id: "dropdown-blog",
               title: "blog",
               description: "",
@@ -507,6 +514,41 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/three_body_problem/";
+            },},{id: "games-battlebox",
+          title: 'BattleBox',
+          description: "A real-time strategy game built in Unity, using the Unity ML-Agents Toolkit to train autonomous agents.",
+          section: "Games",handler: () => {
+              window.location.href = "/games/battlebox/";
+            },},{id: "games-2d-3d-endless-runner",
+          title: '2D/3D Endless Runner',
+          description: "A hybrid 2D/3D Unity endless runner.",
+          section: "Games",handler: () => {
+              window.location.href = "/games/comp159-endless-runner/";
+            },},{id: "games-lookabout-maze-escape",
+          title: 'Lookabout (Maze Escape)',
+          description: "A 2D Unity horror maze-escape game with randomly generated levels, submitted to SCREAM JAM 2023.",
+          section: "Games",handler: () => {
+              window.location.href = "/games/comp159-maze-escape/";
+            },},{id: "games-3d-randomly-generated-platformer",
+          title: '3D Randomly Generated Platformer',
+          description: "A 3D Unity platformer with randomly generated levels.",
+          section: "Games",handler: () => {
+              window.location.href = "/games/comp159-platformer/";
+            },},{id: "games-randomly-generated-shooter",
+          title: 'Randomly Generated Shooter',
+          description: "A 2D Unity run-and-gun shooter with randomly generated levels.",
+          section: "Games",handler: () => {
+              window.location.href = "/games/comp159-shooter/";
+            },},{id: "games-2d-tower-defense",
+          title: '2D Tower Defense',
+          description: "A 2D Unity tower defense strategy game.",
+          section: "Games",handler: () => {
+              window.location.href = "/games/comp159-tower-defense/";
+            },},{id: "games-comp-55-final-project",
+          title: 'COMP 55 Final Project',
+          description: "A team project for COMP 55 Application Development, featuring random level generation, UI, and enemy logic.",
+          section: "Games",handler: () => {
+              window.location.href = "/games/comp55-final-project/";
             },},{id: "news-i-started-my-master-of-science-in-applied-computer-science-at-cal-state-fullerton",
           title: 'I started my Master of Science in Applied Computer Science at Cal State...',
           description: "",
