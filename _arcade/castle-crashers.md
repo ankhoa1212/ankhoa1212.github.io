@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Castle Crashers
-description: Xbox 360
+description: PlayStation 3
 importance: 54
 ---
