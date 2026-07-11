@@ -37,6 +37,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
+            },{id: "dropdown-arcade",
+              title: "arcade",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/arcade/";
+              },
             },{id: "dropdown-games",
               title: "games",
               description: "",
@@ -414,7 +421,92 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-andromeda-strain",
+      },{id: "arcade-2048",
+          title: '2048',
+          description: "High score: 72,792, with a 4096 tile.",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/2048/";
+            },},{id: "arcade-baldur-39-s-gate-3",
+          title: 'Baldur&amp;#39;s Gate 3',
+          description: "Mid-combat in the Shadow-Cursed Lands with the full party.",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/baldurs-gate-3/";
+            },},{id: "arcade-elden-ring",
+          title: 'Elden Ring',
+          description: "100% trophy completion (PS4).",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/elden-ring/";
+            },},{id: "arcade-fortnite",
+          title: 'Fortnite',
+          description: "",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/fortnite/";
+            },},{id: "arcade-hades",
+          title: 'Hades',
+          description: "",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/hades/";
+            },},{id: "arcade-halo-infinite",
+          title: 'Halo Infinite',
+          description: "Completed the campaign on Legendary difficulty.",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/halo-infinite/";
+            },},{id: "arcade-hearthstone",
+          title: 'Hearthstone',
+          description: "Legend rank, peaked top 1000 NA.",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/hearthstone/";
+            },},{id: "arcade-hogwarts-legacy",
+          title: 'Hogwarts Legacy',
+          description: "",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/hogwarts-legacy/";
+            },},{id: "arcade-hollow-knight",
+          title: 'Hollow Knight',
+          description: "",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/hollow-knight/";
+            },},{id: "arcade-marvel-39-s-spider-man",
+          title: 'Marvel&amp;#39;s Spider-Man',
+          description: "",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/marvels-spider-man/";
+            },},{id: "arcade-pokemon",
+          title: 'Pokemon',
+          description: "",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/pokemon/";
+            },},{id: "arcade-risk-of-rain-2",
+          title: 'Risk of Rain 2',
+          description: "",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/risk-of-rain-2/";
+            },},{id: "arcade-risk-of-rain-returns",
+          title: 'Risk of Rain Returns',
+          description: "",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/risk-of-rain-returns/";
+            },},{id: "arcade-the-elder-scrolls-v-skyrim",
+          title: 'The Elder Scrolls V: Skyrim',
+          description: "Ran into an Elder Dragon while modded with Thomas the Tank Engine trains.",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/skyrim/";
+            },},{id: "arcade-super-auto-pets",
+          title: 'Super Auto Pets',
+          description: "Won a match at turn 12 with a full board of maxed-out pets.",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/super-auto-pets/";
+            },},{id: "arcade-super-smash-bros-ultimate",
+          title: 'Super Smash Bros. Ultimate',
+          description: "Won a 34-inch TV from a raffle at a college tournament.",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/super-smash-bros-ultimate/";
+            },},{id: "arcade-undertale",
+          title: 'Undertale',
+          description: "",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/undertale/";
+            },},{id: "books-the-andromeda-strain",
           title: 'The Andromeda Strain',
           description: "",
           section: "Books",handler: () => {
