@@ -426,16 +426,41 @@ ninja.data = [{
           description: "High score: 72,792, with a 4096 tile.",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/2048/";
+            },},{id: "arcade-a-boy-and-his-blob",
+          title: 'A Boy and His Blob',
+          description: "Wii",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/a-boy-and-his-blob/";
+            },},{id: "arcade-a-way-out",
+          title: 'A Way Out',
+          description: "PC",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/a-way-out/";
             },},{id: "arcade-baldur-39-s-gate-3",
           title: 'Baldur&amp;#39;s Gate 3',
           description: "Mid-combat in the Shadow-Cursed Lands with the full party.",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/baldurs-gate-3/";
+            },},{id: "arcade-castle-crashers",
+          title: 'Castle Crashers',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/castle-crashers/";
+            },},{id: "arcade-child-of-light",
+          title: 'Child of Light',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/child-of-light/";
             },},{id: "arcade-elden-ring",
           title: 'Elden Ring',
           description: "100% trophy completion (PS4).",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/elden-ring/";
+            },},{id: "arcade-fire-emblem-awakening",
+          title: 'Fire Emblem Awakening',
+          description: "Nintendo 3DS",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/fire-emblem-awakening/";
             },},{id: "arcade-fortnite",
           title: 'Fortnite',
           description: "",
@@ -446,16 +471,41 @@ ninja.data = [{
           description: "",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/hades/";
+            },},{id: "arcade-halo-2",
+          title: 'Halo 2',
+          description: "Xbox 360",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/halo-2/";
+            },},{id: "arcade-halo-3",
+          title: 'Halo 3',
+          description: "Xbox 360",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/halo-3/";
+            },},{id: "arcade-halo-combat-evolved",
+          title: 'Halo: Combat Evolved',
+          description: "Xbox 360",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/halo-combat-evolved/";
             },},{id: "arcade-halo-infinite",
           title: 'Halo Infinite',
           description: "Completed the campaign on Legendary difficulty.",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/halo-infinite/";
+            },},{id: "arcade-halo-reach",
+          title: 'Halo: Reach',
+          description: "Xbox 360",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/halo-reach/";
             },},{id: "arcade-hearthstone",
           title: 'Hearthstone',
           description: "Legend rank, peaked top 1000 NA.",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/hearthstone/";
+            },},{id: "arcade-heavenly-sword",
+          title: 'Heavenly Sword',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/heavenly-sword/";
             },},{id: "arcade-hogwarts-legacy",
           title: 'Hogwarts Legacy',
           description: "",
@@ -466,16 +516,111 @@ ninja.data = [{
           description: "",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/hollow-knight/";
+            },},{id: "arcade-horizon-zero-dawn",
+          title: 'Horizon Zero Dawn',
+          description: "PlayStation 4",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/horizon-zero-dawn/";
+            },},{id: "arcade-hyper-light-drifter",
+          title: 'Hyper Light Drifter',
+          description: "PC",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/hyper-light-drifter/";
+            },},{id: "arcade-just-cause-3",
+          title: 'Just Cause 3',
+          description: "PlayStation 4",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/just-cause-3/";
+            },},{id: "arcade-lego-star-wars-the-complete-saga",
+          title: 'Lego Star Wars: The Complete Saga',
+          description: "Nintendo DS",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/lego-star-wars-complete-saga/";
+            },},{id: "arcade-littlebigplanet-3",
+          title: 'LittleBigPlanet 3',
+          description: "PlayStation 4",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/littlebigplanet-3/";
+            },},{id: "arcade-lovers-in-a-dangerous-spacetime",
+          title: 'Lovers in a Dangerous Spacetime',
+          description: "PlayStation 4",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/lovers-in-a-dangerous-spacetime/";
             },},{id: "arcade-marvel-39-s-spider-man",
           title: 'Marvel&amp;#39;s Spider-Man',
           description: "",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/marvels-spider-man/";
+            },},{id: "arcade-minecraft",
+          title: 'Minecraft',
+          description: "PC",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/minecraft/";
+            },},{id: "arcade-pokemon-emerald",
+          title: 'Pokemon Emerald',
+          description: "Game Boy Advance",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/pokemon-emerald/";
+            },},{id: "arcade-pokemon-firered",
+          title: 'Pokemon FireRed',
+          description: "Game Boy Advance",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/pokemon-firered/";
+            },},{id: "arcade-pokémon-mystery-dungeon-explorers-of-darkness",
+          title: 'Pokémon Mystery Dungeon: Explorers of Darkness',
+          description: "Nintendo DS",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/pokemon-mystery-dungeon-explorers-of-darkness/";
+            },},{id: "arcade-pokemon-pearl",
+          title: 'Pokemon Pearl',
+          description: "Nintendo DS",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/pokemon-pearl/";
+            },},{id: "arcade-pokemon-platinum",
+          title: 'Pokemon Platinum',
+          description: "Nintendo DS",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/pokemon-platinum/";
+            },},{id: "arcade-pokemon-ruby",
+          title: 'Pokemon Ruby',
+          description: "Game Boy Advance",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/pokemon-ruby/";
+            },},{id: "arcade-pokemon-x",
+          title: 'Pokemon X',
+          description: "Nintendo 3DS",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/pokemon-x/";
             },},{id: "arcade-pokemon",
           title: 'Pokemon',
           description: "",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/pokemon/";
+            },},{id: "arcade-ratchet-amp-clank-all-4-one",
+          title: 'Ratchet &amp;amp; Clank: All 4 One',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/ratchet-clank-all-4-one/";
+            },},{id: "arcade-ratchet-amp-clank-future-a-crack-in-time",
+          title: 'Ratchet &amp;amp; Clank Future: A Crack in Time',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/ratchet-clank-crack-in-time/";
+            },},{id: "arcade-ratchet-amp-clank-full-frontal-assault",
+          title: 'Ratchet &amp;amp; Clank: Full Frontal Assault',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/ratchet-clank-full-frontal-assault/";
+            },},{id: "arcade-ratchet-amp-clank",
+          title: 'Ratchet &amp;amp; Clank',
+          description: "PlayStation 4",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/ratchet-clank-ps4/";
+            },},{id: "arcade-ratchet-amp-clank-future-tools-of-destruction",
+          title: 'Ratchet &amp;amp; Clank Future: Tools of Destruction',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/ratchet-clank-tools-of-destruction/";
             },},{id: "arcade-risk-of-rain-2",
           title: 'Risk of Rain 2',
           description: "",
@@ -491,16 +636,66 @@ ninja.data = [{
           description: "Ran into an Elder Dragon while modded with Thomas the Tank Engine trains.",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/skyrim/";
+            },},{id: "arcade-slay-the-spire",
+          title: 'Slay the Spire',
+          description: "PC",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/slay-the-spire/";
+            },},{id: "arcade-sly-2-band-of-thieves",
+          title: 'Sly 2: Band of Thieves',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/sly-2-band-of-thieves/";
+            },},{id: "arcade-sly-3-honor-among-thieves",
+          title: 'Sly 3: Honor Among Thieves',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/sly-3-honor-among-thieves/";
+            },},{id: "arcade-sly-cooper-and-the-thievius-raccoonus",
+          title: 'Sly Cooper and the Thievius Raccoonus',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/sly-cooper-thievius-raccoonus/";
             },},{id: "arcade-super-auto-pets",
           title: 'Super Auto Pets',
           description: "Won a match at turn 12 with a full board of maxed-out pets.",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/super-auto-pets/";
+            },},{id: "arcade-super-mario-galaxy",
+          title: 'Super Mario Galaxy',
+          description: "Wii",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/super-mario-galaxy/";
             },},{id: "arcade-super-smash-bros-ultimate",
           title: 'Super Smash Bros. Ultimate',
           description: "Won a 34-inch TV from a raffle at a college tournament.",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/super-smash-bros-ultimate/";
+            },},{id: "arcade-time-crisis-4",
+          title: 'Time Crisis 4',
+          description: "Arcade",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/time-crisis-4/";
+            },},{id: "arcade-uncharted-2-among-thieves",
+          title: 'Uncharted 2: Among Thieves',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/uncharted-2-among-thieves/";
+            },},{id: "arcade-uncharted-3-drake-39-s-deception",
+          title: 'Uncharted 3: Drake&amp;#39;s Deception',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/uncharted-3-drakes-deception/";
+            },},{id: "arcade-uncharted-4-a-thief-39-s-end",
+          title: 'Uncharted 4: A Thief&amp;#39;s End',
+          description: "PlayStation 4",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/uncharted-4-a-thiefs-end/";
+            },},{id: "arcade-uncharted-drake-39-s-fortune",
+          title: 'Uncharted: Drake&amp;#39;s Fortune',
+          description: "PlayStation 3",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/uncharted-drakes-fortune/";
             },},{id: "arcade-undertale",
           title: 'Undertale',
           description: "",
