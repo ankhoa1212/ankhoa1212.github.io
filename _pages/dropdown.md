@@ -9,6 +9,8 @@ children:
     permalink: /books/
   - title: arcade
     permalink: /arcade/
+  - title: games
+    permalink: /games/
   - title: divider
   - title: blog
     permalink: /blog/
