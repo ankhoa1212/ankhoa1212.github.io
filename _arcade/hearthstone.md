@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hearthstone
+category: [pc]
 img: /assets/img/arcade/hearthstone-legend.png
 description: Legend rank, peaked top 1000 NA.
 importance: 15

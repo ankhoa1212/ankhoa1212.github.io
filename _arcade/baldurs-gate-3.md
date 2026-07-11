@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Baldur's Gate 3
+category: [pc]
 img: /assets/img/arcade/baldurs-gate-3.png
 description: Mid-combat in the Shadow-Cursed Lands with the full party.
 importance: 13
