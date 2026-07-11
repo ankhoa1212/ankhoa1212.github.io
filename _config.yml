@@ -153,6 +153,8 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  arcade:
+    output: true
   books:
     output: true
   news:
