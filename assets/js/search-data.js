@@ -451,51 +451,46 @@ ninja.data = [{
           description: "PlayStation 3",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/child-of-light/";
+            },},{id: "arcade-clash-of-clans",
+          title: 'Clash of Clans',
+          description: "Mobile",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/clash-of-clans/";
+            },},{id: "arcade-clash-royale",
+          title: 'Clash Royale',
+          description: "Mobile",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/clash-royale/";
             },},{id: "arcade-elden-ring",
           title: 'Elden Ring',
           description: "100% trophy completion (PS4).",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/elden-ring/";
-            },},{id: "arcade-fire-emblem-awakening",
-          title: 'Fire Emblem Awakening',
-          description: "Nintendo 3DS",
+            },},{id: "arcade-fire-emblem",
+          title: 'Fire Emblem',
+          description: "Awakening and Heroes.",
           section: "Arcade",handler: () => {
-              window.location.href = "/arcade/fire-emblem-awakening/";
+              window.location.href = "/arcade/fire-emblem/";
             },},{id: "arcade-fortnite",
           title: 'Fortnite',
           description: "",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/fortnite/";
+            },},{id: "arcade-genshin-impact",
+          title: 'Genshin Impact',
+          description: "",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/genshin-impact/";
             },},{id: "arcade-hades",
           title: 'Hades',
           description: "",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/hades/";
-            },},{id: "arcade-halo-2",
-          title: 'Halo 2',
-          description: "Xbox 360",
+            },},{id: "arcade-halo",
+          title: 'Halo',
+          description: "Combat Evolved, 2, 3, Reach, and Infinite.",
           section: "Arcade",handler: () => {
-              window.location.href = "/arcade/halo-2/";
-            },},{id: "arcade-halo-3",
-          title: 'Halo 3',
-          description: "Xbox 360",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/halo-3/";
-            },},{id: "arcade-halo-combat-evolved",
-          title: 'Halo: Combat Evolved',
-          description: "Xbox 360",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/halo-combat-evolved/";
-            },},{id: "arcade-halo-infinite",
-          title: 'Halo Infinite',
-          description: "Completed the campaign on Legendary difficulty.",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/halo-infinite/";
-            },},{id: "arcade-halo-reach",
-          title: 'Halo: Reach',
-          description: "Xbox 360",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/halo-reach/";
+              window.location.href = "/arcade/halo/";
             },},{id: "arcade-hearthstone",
           title: 'Hearthstone',
           description: "Legend rank, peaked top 1000 NA.",
@@ -516,6 +511,11 @@ ninja.data = [{
           description: "",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/hollow-knight/";
+            },},{id: "arcade-",
+          title: '',
+          description: "",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/honkai-star-rail/";
             },},{id: "arcade-horizon-zero-dawn",
           title: 'Horizon Zero Dawn',
           description: "PlayStation 4",
@@ -556,71 +556,21 @@ ninja.data = [{
           description: "PC",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/minecraft/";
-            },},{id: "arcade-pokemon-emerald",
-          title: 'Pokemon Emerald',
-          description: "Game Boy Advance",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/pokemon-emerald/";
-            },},{id: "arcade-pokemon-firered",
-          title: 'Pokemon FireRed',
-          description: "Game Boy Advance",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/pokemon-firered/";
-            },},{id: "arcade-pokémon-mystery-dungeon-explorers-of-darkness",
-          title: 'Pokémon Mystery Dungeon: Explorers of Darkness',
-          description: "Nintendo DS",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/pokemon-mystery-dungeon-explorers-of-darkness/";
-            },},{id: "arcade-pokemon-pearl",
-          title: 'Pokemon Pearl',
-          description: "Nintendo DS",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/pokemon-pearl/";
-            },},{id: "arcade-pokemon-platinum",
-          title: 'Pokemon Platinum',
-          description: "Nintendo DS",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/pokemon-platinum/";
-            },},{id: "arcade-pokemon-ruby",
-          title: 'Pokemon Ruby',
-          description: "Game Boy Advance",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/pokemon-ruby/";
-            },},{id: "arcade-pokemon-x",
-          title: 'Pokemon X',
-          description: "Nintendo 3DS",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/pokemon-x/";
             },},{id: "arcade-pokemon",
           title: 'Pokemon',
-          description: "",
+          description: "Ruby, Emerald, FireRed, Pearl, Platinum, X, Mystery Dungeon Explorers of Darkness, GO, Sleep, and Champions.",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/pokemon/";
-            },},{id: "arcade-ratchet-amp-clank-all-4-one",
-          title: 'Ratchet &amp;amp; Clank: All 4 One',
-          description: "PlayStation 3",
+            },},{id: "arcade-pubg-mobile",
+          title: 'PUBG Mobile',
+          description: "Mobile",
           section: "Arcade",handler: () => {
-              window.location.href = "/arcade/ratchet-clank-all-4-one/";
-            },},{id: "arcade-ratchet-amp-clank-future-a-crack-in-time",
-          title: 'Ratchet &amp;amp; Clank Future: A Crack in Time',
-          description: "PlayStation 3",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/ratchet-clank-crack-in-time/";
-            },},{id: "arcade-ratchet-amp-clank-full-frontal-assault",
-          title: 'Ratchet &amp;amp; Clank: Full Frontal Assault',
-          description: "PlayStation 3",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/ratchet-clank-full-frontal-assault/";
+              window.location.href = "/arcade/pubg-mobile/";
             },},{id: "arcade-ratchet-amp-clank",
           title: 'Ratchet &amp;amp; Clank',
-          description: "PlayStation 4",
+          description: "Tools of Destruction, A Crack in Time, All 4 One, Full Frontal Assault, and the PS4 reboot.",
           section: "Arcade",handler: () => {
-              window.location.href = "/arcade/ratchet-clank-ps4/";
-            },},{id: "arcade-ratchet-amp-clank-future-tools-of-destruction",
-          title: 'Ratchet &amp;amp; Clank Future: Tools of Destruction',
-          description: "PlayStation 3",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/ratchet-clank-tools-of-destruction/";
+              window.location.href = "/arcade/ratchet-clank/";
             },},{id: "arcade-risk-of-rain-2",
           title: 'Risk of Rain 2',
           description: "",
@@ -641,21 +591,11 @@ ninja.data = [{
           description: "PC",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/slay-the-spire/";
-            },},{id: "arcade-sly-2-band-of-thieves",
-          title: 'Sly 2: Band of Thieves',
-          description: "PlayStation 3",
+            },},{id: "arcade-sly-cooper",
+          title: 'Sly Cooper',
+          description: "Thievius Raccoonus, Band of Thieves, and Honor Among Thieves.",
           section: "Arcade",handler: () => {
-              window.location.href = "/arcade/sly-2-band-of-thieves/";
-            },},{id: "arcade-sly-3-honor-among-thieves",
-          title: 'Sly 3: Honor Among Thieves',
-          description: "PlayStation 3",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/sly-3-honor-among-thieves/";
-            },},{id: "arcade-sly-cooper-and-the-thievius-raccoonus",
-          title: 'Sly Cooper and the Thievius Raccoonus',
-          description: "PlayStation 3",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/sly-cooper-thievius-raccoonus/";
+              window.location.href = "/arcade/sly-cooper/";
             },},{id: "arcade-super-auto-pets",
           title: 'Super Auto Pets',
           description: "Won a match at turn 12 with a full board of maxed-out pets.",
@@ -676,36 +616,31 @@ ninja.data = [{
           description: "Arcade",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/time-crisis-4/";
-            },},{id: "arcade-uncharted-2-among-thieves",
-          title: 'Uncharted 2: Among Thieves',
-          description: "PlayStation 3",
+            },},{id: "arcade-uncharted",
+          title: 'Uncharted',
+          description: "Drake&#39;s Fortune, Among Thieves, Drake&#39;s Deception, and A Thief&#39;s End.",
           section: "Arcade",handler: () => {
-              window.location.href = "/arcade/uncharted-2-among-thieves/";
-            },},{id: "arcade-uncharted-3-drake-39-s-deception",
-          title: 'Uncharted 3: Drake&amp;#39;s Deception',
-          description: "PlayStation 3",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/uncharted-3-drakes-deception/";
-            },},{id: "arcade-uncharted-4-a-thief-39-s-end",
-          title: 'Uncharted 4: A Thief&amp;#39;s End',
-          description: "PlayStation 4",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/uncharted-4-a-thiefs-end/";
-            },},{id: "arcade-uncharted-drake-39-s-fortune",
-          title: 'Uncharted: Drake&amp;#39;s Fortune',
-          description: "PlayStation 3",
-          section: "Arcade",handler: () => {
-              window.location.href = "/arcade/uncharted-drakes-fortune/";
+              window.location.href = "/arcade/uncharted/";
             },},{id: "arcade-undertale",
           title: 'Undertale',
           description: "",
           section: "Arcade",handler: () => {
               window.location.href = "/arcade/undertale/";
+            },},{id: "arcade-valorant",
+          title: 'Valorant',
+          description: "PC",
+          section: "Arcade",handler: () => {
+              window.location.href = "/arcade/valorant/";
             },},{id: "books-the-andromeda-strain",
           title: 'The Andromeda Strain',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/andromeda_strain/";
+            },},{id: "books-around-the-world-in-80-days",
+          title: 'Around the World in 80 Days',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/around_the_world_in_80_days/";
             },},{id: "books-binti",
           title: 'Binti',
           description: "",
@@ -716,16 +651,36 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/brave_new_world/";
+            },},{id: "books-civilization-and-its-discontents",
+          title: 'Civilization and Its Discontents',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/civilization_and_its_discontents/";
             },},{id: "books-crime-and-punishment",
           title: 'Crime and Punishment',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/crime_and_punishment/";
+            },},{id: "books-death-39-s-end",
+          title: 'Death&amp;#39;s End',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/deaths_end/";
+            },},{id: "books-doom-guy-life-in-first-person",
+          title: 'Doom Guy: Life in First Person',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/doom_guy/";
             },},{id: "books-ender-s-game-1-4",
           title: 'Ender’s Game (1-4)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/enders_game/";
+            },},{id: "books-evolutionary-psychology",
+          title: 'Evolutionary Psychology',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/evolutionary_psychology/";
             },},{id: "books-guardians-of-ga-hoole-1-15",
           title: 'Guardians of Ga’Hoole (1-15)',
           description: "",
@@ -746,6 +701,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hyperion/";
+            },},{id: "books-joy-of-cooking",
+          title: 'Joy of Cooking',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/joy_of_cooking/";
             },},{id: "books-kane-chronicles-1-3",
           title: 'Kane Chronicles (1-3)',
           description: "",
@@ -776,11 +736,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/rangers_apprentice/";
+            },},{id: "books-the-complete-adventures-of-sherlock-holmes",
+          title: 'The Complete Adventures of Sherlock Holmes',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sherlock_holmes/";
             },},{id: "books-snow-crash",
           title: 'Snow Crash',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/snow_crash/";
+            },},{id: "books-steve-jobs",
+          title: 'Steve Jobs',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/steve_jobs/";
             },},{id: "books-the-39-clues-1-11-1-6",
           title: 'The 39 Clues (1-11, 1-6)',
           description: "",
