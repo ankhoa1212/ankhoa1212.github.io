@@ -2,6 +2,7 @@
 layout: page
 title: Halo
 description: "Combat Evolved, 2, 3, Reach, and Infinite."
+status: Completed
 importance: 14
 ---
 

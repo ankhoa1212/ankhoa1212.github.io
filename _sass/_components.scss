@@ -70,6 +70,11 @@ ul.task-list input[type="checkbox"] {
     background-color: var(--global-tip-block-bg);
     color: var(--global-tip-block-text);
   }
+
+  &.partial {
+    background-color: var(--global-warning-block-bg);
+    color: var(--global-warning-block-text);
+  }
 }
 
 // Profile

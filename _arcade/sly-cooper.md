@@ -2,6 +2,7 @@
 layout: page
 title: Sly Cooper
 description: "Thievius Raccoonus, Band of Thieves, and Honor Among Thieves."
+status: Completed
 importance: 36
 ---
 

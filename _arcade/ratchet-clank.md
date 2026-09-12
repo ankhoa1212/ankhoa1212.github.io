@@ -2,6 +2,7 @@
 layout: page
 title: "Ratchet & Clank"
 description: "Tools of Destruction, A Crack in Time, All 4 One, Full Frontal Assault, and the PS4 reboot."
+status: Completed
 importance: 27
 ---
 
