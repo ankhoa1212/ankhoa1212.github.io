@@ -3,6 +3,7 @@ layout: page
 title: "The Elder Scrolls V: Skyrim"
 img: /assets/img/arcade/skyrim-train.png
 description: Ran into an Elder Dragon while modded with Thomas the Tank Engine trains.
+status: Completed
 importance: 4
 ---
 
