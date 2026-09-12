@@ -14,3 +14,7 @@ _data/citations.yml
 
 # Agent-generated planning docs, not hand-formatted
 docs/**
+
+# prettier-plugin-liquid is non-deterministic on the {% highlight %}
+# block here (flip-flops on endhighlight indentation between runs)
+_layouts/bib.liquid
