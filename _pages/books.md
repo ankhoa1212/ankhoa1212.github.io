@@ -10,7 +10,7 @@ collection: books
 >
 > -- Eminem
 
-## Books that I am reading, have read, or will read
+## Books that I am reading, have read, or might read
 
 | Title                        | Type | Status      | Rating     | Author            |
 | ---------------------------- | ---- | ----------- | ---------- | ----------------- |
@@ -26,6 +26,8 @@ collection: books
 | Lord of the Rings (1-3)      | Book | Done        | ⭐️⭐️⭐️⭐️⭐️ | J. R. R. Tolkien  |
 | Harry Potter (1-7)           | Book | Done        | ⭐️⭐️⭐️⭐️⭐️ | J. K. Rowling     |
 | Brave New World              | Book | Done        | ⭐️⭐️⭐️⭐️⭐️ | Aldous Huxley     |
+| Around the World in 80 Days  | Book | Done        | ⭐️⭐️⭐️⭐️   | Jules Verne       |
+| The Complete Adventures of Sherlock Holmes | Book | Done | ⭐️⭐️⭐️⭐️⭐️ | Sir Arthur Conan Doyle |
 | Crime and Punishment         | Book | Not started |            | Fyodor Dostoevsky |
 | Snow Crash                   | Book | In progress |            | Neal Stephenson   |
 | Hyperion                     | Book | Done        | ⭐️⭐️⭐️⭐️⭐️ | Dan Simmons       |
@@ -34,3 +36,9 @@ collection: books
 | Binti                        | Book | Done        | ⭐️⭐️⭐️⭐️   | Nnedi Okorafor    |
 | Prey                         | Book | Done        | ⭐️⭐️⭐️⭐️⭐️ | Michael Crichton  |
 | The Andromeda Strain         | Book | Done        | ⭐️⭐️⭐️⭐️   | Michael Crichton  |
+| Evolutionary Psychology      | Book | Not started |            | David M. Buss     |
+| Civilization and Its Discontents | Book | Not started |        | Sigmund Freud     |
+| Death's End                  | Book | Not started |            | Cixin Liu         |
+| Doom Guy: Life in First Person | Book | Not started |          | John Romero       |
+| Steve Jobs                   | Book | Not started |            | Walter Isaacson   |
+| Joy of Cooking                | Book | Not started |            | Irma S. Rombauer  |
