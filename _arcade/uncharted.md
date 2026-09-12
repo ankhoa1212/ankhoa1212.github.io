@@ -2,6 +2,7 @@
 layout: page
 title: Uncharted
 description: "Drake's Fortune, Among Thieves, Drake's Deception, and A Thief's End."
+status: Completed
 importance: 31
 ---
 

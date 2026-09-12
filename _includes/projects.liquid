@@ -14,8 +14,8 @@
       <div class="card-body">
         <h2 class="card-title">
           {{ project.title }}
-          {% if project.status == 'Completed' %}
-            <span class="status-badge completed">Completed</span>
+          {% if project.status %}
+            <span class="status-badge {% if project.status == 'Completed' %}completed{% else %}partial{% endif %}">{{ project.status }}</span>
           {% endif %}
         </h2>
         <p class="card-text">{{ project.description }}</p>

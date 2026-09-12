@@ -2,6 +2,7 @@
 layout: page
 title: Fire Emblem
 description: "Awakening and Heroes."
+status: "1/2 Completed"
 importance: 48
 ---
 

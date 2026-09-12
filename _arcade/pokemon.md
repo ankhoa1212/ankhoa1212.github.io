@@ -2,6 +2,7 @@
 layout: page
 title: Pokemon
 description: Ruby, Emerald, FireRed, Pearl, Platinum, X, Mystery Dungeon Explorers of Darkness, GO, Sleep, and Champions.
+status: "7/10 Completed"
 importance: 1
 ---
 
