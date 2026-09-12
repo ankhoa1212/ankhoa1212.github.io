@@ -14,7 +14,16 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
+placeholder: true # set to false to enable the full blog page below
 ---
+
+{% if page.placeholder %}
+
+<div class="post">
+  <p>Nothing to see here.</p>
+</div>
+
+{% else %}
 
 <div class="post">
 
@@ -194,3 +203,5 @@ pagination:
 {% endif %}
 
 </div>
+
+{% endif %}

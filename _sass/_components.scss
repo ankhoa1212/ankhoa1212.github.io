@@ -53,6 +53,25 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Status badge (e.g. marking a completed game)
+
+.status-badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 0.15rem 0.5rem;
+  border-radius: 1rem;
+  vertical-align: middle;
+  margin-left: 0.5rem;
+
+  &.completed {
+    background-color: var(--global-tip-block-bg);
+    color: var(--global-tip-block-text);
+  }
+}
+
 // Profile
 
 .profile {

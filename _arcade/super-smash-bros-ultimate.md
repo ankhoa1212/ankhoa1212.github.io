@@ -8,3 +8,4 @@ importance: 17
 **Achievements:**
 
 - Won a 34-inch TV from a raffle at a college Super Smash Bros. Ultimate tournament.
+- Accidentally emoted while my match was showcased live on the big screen with people watching.
